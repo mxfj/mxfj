@@ -5,6 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Go](https://img.shields.io/badge/-GO-000000?style=flat&logo=GO)
+![K8S](https://img.shields.io/badge/-K8S-000000?style=flat&logo=K8S)
 
 ### :rocket: Some of the technologies I have worked with
 
