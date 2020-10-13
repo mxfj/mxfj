@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Go](https://img.shields.io/badge/-GO-000000?style=flat&logo=GO)
-![K8S](https://img.shields.io/badge/-KUBERNETES-000000?style=flat&logo=KUBERNETES)
+![K8S](https://img.shields.io/badge/-K8S-000000?style=flat&logo=KUBERNETES)
 
 ### :rocket: Some of the technologies I have worked with
 
