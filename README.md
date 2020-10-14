@@ -75,10 +75,8 @@
 
 ### 💡 Projects with My Work
 
-- [hexo-theme-ayer](https://github.com/mxfj/hexo-theme-ayer) - a clean and elegant theme for Hexo.
-- [hexo-tag-chart](https://github.com/mxfj/hexo-tag-chart) - insert Chartjs in Hexo by using tags.
-- [hugo-chart](https://github.com/mxfj/hugo-chart) - a Chart.js component for Hugo.
-- [b2-viewer](https://github.com/mxfj/b2-viewer) - a web file browser for Backblaze B2.
+- [ayer](https://github.com/mxfj/mxfj.github.io) - a clean and elegant theme for Hexo.
+
 
 ### 💻 Open Source Work Stats
 
